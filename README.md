@@ -6,7 +6,7 @@ The purpose of this app is ,as the name suggest, download html file from a url.
 The installer is created using [Install Creator](https://www.clickteam.com/install-creator-2)
 
 ## How to download the app
-Click [here](https://github.com/LucaYan0506/File-searcher/releases/download/v1.0.1/installer.exe) to download the app (for windows). 
+Click [here](https://github.com/LucaYan0506/Website-downloader/releases/download/v1.0.0/installer.exe) to download the app (for windows). 
 #### Chrome
 If you are using Google Chrome, it may block download.   
 ![image](https://github.com/LucaYan0506/Binary-code-Puzzle/blob/master/screenshot/Screenshot%202022-02-21%20202953.jpg)    
@@ -23,22 +23,23 @@ After the donwload is finished click it
 ![image](https://user-images.githubusercontent.com/83918638/155171074-a1149aef-6142-4513-81e8-4eeeb3a12ed4.png)   
 Microsoft Defender and other antivirus may block it because this app is an unpopular application. Click "More info"  
 ![image](https://user-images.githubusercontent.com/83918638/155171920-3f0ad496-f25a-4735-8e3b-4eb4617dfd01.png)  
-then click "Run anyway"（rest assured, it is a safe app, all code can be seen [here](https://github.com/LucaYan0506/File-searcher))  
+then click "Run anyway"（rest assured, it is a safe app, all code can be seen [here](https://github.com/LucaYan0506/Website-downloader))  
 ![image](https://user-images.githubusercontent.com/83918638/155171870-ee4f4330-7a32-4890-9c01-1deaccd2da12.png)  
 read it and keep clicking next  
-![image](https://user-images.githubusercontent.com/83918638/159765123-c879b56d-b24c-4144-bce8-1b7a0c32524e.png)  
+![image](https://user-images.githubusercontent.com/83918638/161449688-a93b5a8c-ef88-4f26-9b77-34d266d5e87e.png)   
 After the installation, a copy of it will be on desktop   
-![image](https://user-images.githubusercontent.com/83918638/159765251-266fea1c-67c8-43f1-bcd8-ae7d53da0124.png)  
+![image](https://user-images.githubusercontent.com/83918638/161449708-87b1de1a-5875-4592-a1df-7d00aab7ba11.png)  
 
 ## How to use it 
-After you intalled and opened the app, it will ask you to run as admin  
-![image](https://user-images.githubusercontent.com/83918638/159765546-761760f8-032f-46ab-9c66-c17164acbe6c.png)  
-after click yes it should looks like this   
-![image](https://user-images.githubusercontent.com/83918638/159765694-36b36963-a1e0-4d63-9157-471d0eac2536.png)   
-Here you can add the directory path (compulsory) and the file name (optional, if you don't insert the file name it will show all files in that folder path)  
-To select the folder path you can also click the 3 points   
-![image](https://user-images.githubusercontent.com/83918638/159766153-4b626265-dc73-428e-b2d4-de9bd5558708.png)   
-then select the folder you want and then click search to search files  
-![image](https://user-images.githubusercontent.com/83918638/159766235-66c000e7-3db5-4472-bac8-fea1abafc330.png)  
-Once the search is done you can double click one of these files to open it  
-![image](https://user-images.githubusercontent.com/83918638/159766436-a26b699b-d55b-461b-bb7d-dde5a2409ae1.png)
+After you intalled and opened the app, it should looks like this   
+![image](https://user-images.githubusercontent.com/83918638/161449742-20e11f3d-3564-40fb-b4b9-b09b7ea79b8b.png)  
+Enter the url here  
+![image](https://user-images.githubusercontent.com/83918638/161449831-2613fa29-fb8c-4f79-b177-43802ba24413.png)  
+If you copy the url and paste (using `ctrl + v`), it will set the protocol automatically (if the url you pasted start with `https://` or `http://`) and it will generate a name for the file (the domain of the website)  
+![video1](https://user-images.githubusercontent.com/83918638/161450473-64239cfd-ec5b-4357-98b0-fcace6825886.gif)
+![video2](https://user-images.githubusercontent.com/83918638/161450480-5e39c779-9dd1-40b4-9360-504ca34d7e06.gif)  
+Click `download` to download the html file of the website (if the url that you enter didn't start with `www`, it will add `www` automatically)    
+![image](https://user-images.githubusercontent.com/83918638/161450590-b2babf3d-3413-40ca-b54d-972940c0be54.png)  
+To display the html file, click `display`, then choose the html file that you want.  
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/83918638/161450741-9c2f66d3-ec9e-4f79-9dc1-843d02641362.gif)  
+
