@@ -1,0 +1,10 @@
+D:\School\IT\C#\Website downloader\bin\Debug\Website downloader.exe.config
+D:\School\IT\C#\Website downloader\bin\Debug\Website downloader.exe
+D:\School\IT\C#\Website downloader\bin\Debug\Website downloader.pdb
+D:\School\IT\C#\Website downloader\obj\Debug\Website downloader.csproj.AssemblyReference.cache
+D:\School\IT\C#\Website downloader\obj\Debug\Website_downloader.Form1.resources
+D:\School\IT\C#\Website downloader\obj\Debug\Website_downloader.Properties.Resources.resources
+D:\School\IT\C#\Website downloader\obj\Debug\Website downloader.csproj.GenerateResource.cache
+D:\School\IT\C#\Website downloader\obj\Debug\Website downloader.csproj.CoreCompileInputs.cache
+D:\School\IT\C#\Website downloader\obj\Debug\Website downloader.exe
+D:\School\IT\C#\Website downloader\obj\Debug\Website downloader.pdb
